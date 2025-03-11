@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello There, I'm Siddhi Raney</h1> <h3 align="center">Web and eveloper</h3> <p align="center"> With Blah Blah</p>
-</p> <a href="https://gitroll.io/profile/u8lXMOVQHwvQfJcDGbIElZDYoXEl2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8lXMOVQHwvQfJcDGbIElZDYoXEl2?theme=light" alt="GitRoll Profile Badge"/></a>
+</p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddhiRaney&label=Profile%20views&color=0e75b6&style=flat" alt="Siddhi" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=SiddhiRaney" alt="SR" /> </a> <br>
 <br>
 <p>📫 How to reach me: Siddhi@gmail.com</p>
