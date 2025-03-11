@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddhiRaney&label=Profile%20views&color=0e75b6&style=flat" alt="Siddhi" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=SiddhiRaney" alt="SR" /> </a> <br>
 <br>
   <---
-<p>📫 How to reach me: Siddhi@gmail.com</p>
+<p>📫 How to reach me:</p>
 <p><b>Connect with me:</b></p>
 <p> <a href="https://www.linkedin.com/in/siddhi/" target="blank"> <img src="https://img.shields.io/badge/-%20....-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://instagram.com/Siddhi" target="blank"> <img src="https://img.shields.io/badge/--E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"> </a> <a href="https://www.youtube.com/c/Siddhi" target="blank"> <img src="https://img.shields.io/badge/-.....-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"> </a> <a href="https://discord.gg/v2TzrDz5Kz" target="blank"> <img src="https://img.shields.io/badge/-S-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"> </a> </p>--->
 Languages and Tools:
