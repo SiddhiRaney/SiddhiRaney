@@ -2,8 +2,9 @@
 
 ## 🚀 About Me  
 💻 Passionate about **Software Development, AI, and Data Analytics**   
-🌍 **Open Source Contributor at Hacktoberfest 2024 & GirlScript Summer of Code 2024**
-📚 Exploring **LLM's, Neural Networks, Machine Learning**  
+🌍 **Open Source Contributor at Hacktoberfest 2024 & GirlScript Summer of Code 2024**  
+📚 Exploring **Neural Networks and Machine Learning**  
+🤖 Currently exploring **LLMs and their applications**  
 🎯 Dabbling in **Data Structures, Algorithms & Competitive Programming**  
 
 ---
